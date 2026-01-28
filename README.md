@@ -31,7 +31,7 @@ On your Kobo device, go to `More -> Settings -> Overdrive -> Sign in` and then p
 
 A few months ago, there used to be an option to sign in directly with your Overdrive account, but that's now been removed. Despite this, the functionality to do this wasn't actually removed from their servers; only the UI element for it was. So you can still login with your Overdrive account by telling it to use an account login instead of a library login from the developer tools.
 
-Use `Right Click->Inspect` or `Ctrl+Shift+I` (`Cmd+Option+I` for Mac users) to open the developer tools menu, then navigate the `Console` tab and run this:
+Use `Right Click->Inspect` or `Ctrl+Shift+I` (`Cmd+Option+I` for Mac users) to open the developer tools menu, then navigate to the `Console` tab and run this:
 
 ```js
 document.querySelector('input[name="librarylogin"]').value = "false";
@@ -42,7 +42,7 @@ document.querySelector('input[name="logintype"]').value = "account";
 
 Finally, input your Overdrive account email in the "Card Number" field and your password in the "Pin" field and sign in.
 
-![Visual demenstration of how to apply the workaround](./img1.jpg)
+![Visual demonstration of how to apply the workaround](./img1.jpg)
 
 ## 3. Linking your Library Card
 
