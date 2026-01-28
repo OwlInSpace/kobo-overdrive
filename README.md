@@ -1,6 +1,5 @@
 # Multiple Library Card Workaround for Kobo Devices
-
-Hello! This is an up-to-date guide and workaround for the single library restriction on Kobo devices. This guide also gets around the removal of the "Sign in with Overdrive" button, and I tried to make it as clear and easy as possible.
+This is an up-to-date guide and workaround for the single library restriction on Kobo devices.
 
 > If you already have an Overdrive account with your library cards already linked and you just want to get around Overdrive removing the account sign-in button, read from [Step 2 - Authenticating with your Overdrive account](#2-authenticating-with-your-overdrive-account)
 
