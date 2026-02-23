@@ -69,6 +69,18 @@ Unfortunately, you can't replace a library card without recreating the Overdrive
 
 > If you want to use the same e-mail address for the new Overdrive account, you can delete the old one from Overdrive account settings to sign up again with the same e-mail.
 
+### My Library doesn't have an option to enter a PIN/Password
+
+Run the following in the console which would make the password field visible again (changes its type from hidden -> password):
+
+```js
+document.querySelector('input[name="password"]').type = "password";
+```
+
+Source: https://old.reddit.com/r/kobo/comments/1qpmjox/how_to_use_multiple_library_cards_with_kobo/o2czu8p/
+
+See also https://github.com/OwlInSpace/kobo-overdrive/issues/3 
+
 ## Notes
 
 - You can return the borrowed books from different libraries directly from your Kobo.
