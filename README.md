@@ -49,7 +49,7 @@ After you've signed in with your Overdrive account, go back to `More -> Settings
 
 ## 4. Repeat
 
-After you've signed in with your library card, **sign out** and repeat back from [step 1](#1-sign-in-on-your-kobo-device). Do this until you have all your library cards linked to your Overdrive account, and remember to enter the library card you want to be signed in as for borrowing and viewing books on the Kobo **last**.
+After you've signed in with your library card, **sign out** (tap "Remove" on Kobo, then tap the "Sign Out" button in the popup) and repeat back from [step 1](#1-sign-in-on-your-kobo-device). Do this until you have all your library cards linked to your Overdrive account, and remember to enter the library card you want to be signed in as for borrowing and viewing books on the Kobo **last**.
 
 After you've entered your last library card, Kobo should sync across all of them. Give it a try by borrowing a book on Libby and doing a manual sync on your Kobo!
 
